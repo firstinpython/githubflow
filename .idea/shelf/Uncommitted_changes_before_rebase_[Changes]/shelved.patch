@@ -1,0 +1,9 @@
+Index: main.py
+===================================================================
+diff --git a/main.py b/main.py
+deleted file mode 100644
+--- a/main.py	(revision d258b61dccbbdb47188090df855dba078e46f287)
++++ /dev/null	(revision d258b61dccbbdb47188090df855dba078e46f287)
+@@ -1,1 +0,0 @@
+-print('hello')
+\ No newline at end of file
